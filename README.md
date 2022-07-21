@@ -20,7 +20,7 @@ This assignment was designed to create and demonstrate a social network api. Thi
 - Testing API POST, PUT, and DELETE routes in Insomnia Core are able to successfully create, update, and delete users and thoughts
 - Testing API POST and DELETE routes in Insomnia Core are able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
-## Walkthrough Videos
+## Walkthrough Video
 [Walkthrough Demo](https://youtu.be/Az0YOhdVFVo)
 
 ## Installation:
