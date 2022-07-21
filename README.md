@@ -1,7 +1,7 @@
 # Social-Network-API
 
 ## Description:
-This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.
+This assignment was designed to create and demonstrate a social network api. This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.
 
  ## Table of Contents:  
 [1. Description](#Description)  
