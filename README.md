@@ -16,7 +16,6 @@ This assignment was designed to create and demonstrate a social network api. Thi
 ## Acceptance Criteria:
 
 - When you enter the command to invoke the application then the server is started and the Mongoose models are synced to the MongoDB database.  
-- Testing API GET routes in Insomnia Core for users and thoughts return the data for each of these routes in a formatted JSON
 - Testing API POST, PUT, and DELETE routes in Insomnia Core are able to successfully create, update, and delete users and thoughts
 - Testing API POST and DELETE routes in Insomnia Core are able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
@@ -24,21 +23,23 @@ This assignment was designed to create and demonstrate a social network api. Thi
 [Walkthrough Demo](https://youtu.be/Az0YOhdVFVo)
 
 ## Installation:
+
+There are some simple steps when starting this API.
 This repo is not to be deployed, if you wanted to, you could by doing the following:  
-1. Download the repo files from the link below
-2. You must have mongoDB installed
-3. Run the following at the command line
+- Download the repo files from the link below
+- You must have mongoDB installed
+- Run the following at the command line
 ```
     - npm init -y
     - npm install express
     - npm install mongoose
     - npm install moment
 ```
-4. Start the server
+- Start the server
 ```
     $ npm start
 ```
-5. Open Insomnia Core to test API routes
+- Open Insomnia Core to test API routes
 
 ## Tests:  
 
